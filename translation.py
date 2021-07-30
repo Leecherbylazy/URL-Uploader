@@ -5,10 +5,10 @@ This is a Telegram URL Upload Bot!
 <b>Please send me any Direct download URL link, I can upload to telegram as File/Video</b>
 Hits /help for more details..
 
-➟ <b>Made by @ZauteKm</b>"""
+➟ <b>Made by @Lazyhacker25</b>"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
-    UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  \n\n<a href='https://youtu.be/T6FYjPW1cBE'>Click here, Fork and Deploy!!</a>"
+    UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  \n\n<a href='https://t.me/lazyhacker25'>Click here, Fork and Deploy!!</a>"
     FORMAT_SELECTION = "<b>Select the desired format:</b> <a href='{}'>file size might be approximate</a> \n<b>If you want to set custom thumbnail,</b> send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
     SET_CUSTOM_USERNAME_PASSWORD = """<b>If you want to download premium videos,</b> provide in the following format:
 <b>URL | filename | username | password</b>"""
@@ -18,14 +18,14 @@ Hits /help for more details..
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. Join : @ZauteSupport"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \n<b>Share & Support Me :</b> [👉 Share](https://t.me/share/url?url=Hi%20Friend%2C%0D%0AAm%20Introducing%20a%20Powerful%20%2A%2AURL%20Uploader%20@ZauTeKm%20Bot%2A%2A%20for%20Free.%0D%0A%2A%2ABot%20Link%2A%2A%20%3A%20%40uploadzKbot) \nUploaded in {} seconds."
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \n<b>Share & Support Me :</b> [👉 Share](https://t.me/share/url?url=Hi%20Friend%2C%0D%0AAm%20Introducing%20a%20Powerful%20%2A%2AURL%20Uploader%20@Lazyhacker25%20Bot%2A%2A%20for%20Free.%0D%0A%2A%2ABot%20Link%2A%2A%20%3A%20%40urluploader2508bot) \nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/MizoHelpDesK'>@MizoHelpDesK</a>"
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
     DEL_ETED_CUSTOM_THUMB_NAIL = "<b>✅ Custom thumbnail cleared succesfully.</b>"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "<b>✅ Media cleared succesfully.</b>"
     SAVED_RECVD_DOC_FILE = "<b>Document Downloaded Successfully.</b>"
-    CUSTOM_CAPTION_UL_FILE = "<b>Share & Support Me:</b> [Share](https://t.me/share/url?url=Hi%20Friend%2C%0D%0AAm%20Introducing%20a%20Powerful%20%2A%2AURL%20Uploader%20@ZauTeKm%20Bot%2A%2A%20for%20Free.%0D%0A%2A%2ABot%20Link%2A%2A%20%3A%20%40uploadzKbot)"
+    CUSTOM_CAPTION_UL_FILE = "<b>Share & Support Me:</b> [Share](https://t.me/share/url?url=Hi%20Friend%2C%0D%0AAm%20Introducing%20a%20Powerful%20%2A%2AURL%20Uploader%20@Lazyhacker25%20Bot%2A%2A%20for%20Free.%0D%0A%2A%2ABot%20Link%2A%2A%20%3A%20%40urluploader2508bot)"
     NO_CUSTOM_THUMB_NAIL_FOUND = "<b>No saved thumbnails Found!!\n\nSend an image to save it as your thumbnail permanently.</b>"
     NO_VOID_FORMAT_FOUND = "ERROR...\n<b>YouTubeDL</b> said: {}"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
@@ -46,7 +46,7 @@ Telegram ID: <code>{}</code>
 --------
 Send /me to know current plan details
 
-➟ <b>Made by @ZauteKm</b>
+➟ <b>Made by @Lazyhacker25</b>
 """
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
