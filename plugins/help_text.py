@@ -39,11 +39,11 @@ async def help_user(bot, update):
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
             [[
-                  InlineKeyboardButton('👥 Group', url='https://t.me/torrentleecherz'),
-                  InlineKeyboardButton(' Channel 📢', url='https://t.me/torrentleecherz')
+                  InlineKeyboardButton('👥 Group', url='https://t.me/HEXbotsdg'),
+                  InlineKeyboardButton(' Channel 📢', url='https://t.me/HEXBOTS')
                   ],[
-                  InlineKeyboardButton('🙄 Source', url='https://t.me/lazyhacker25'),
-                  InlineKeyboardButton('Bot Lists 🤖', url='https://t.me/torrentleecherz/52'),
+                  InlineKeyboardButton('🙄 Source', url='https://t.me/HEXBOTS'),
+                  InlineKeyboardButton('Bot Lists 🤖', url='https://t.me/HEXBOTS/10'),
                   InlineKeyboardButton('GitHup 🤪', url='https://t.me/lazyhacker25')
                   ],[
                   InlineKeyboardButton('🔻 Subscribe New MODDING CHANNEL 🔻', url='https://t.me/PLAYSTOREHUB')
@@ -77,11 +77,11 @@ async def start(bot, update):
         text=Translation.START_TEXT,
         reply_markup=InlineKeyboardMarkup(
             [[
-                  InlineKeyboardButton('👥 Group', url='https://t.me/torrentleecherz'),
-                  InlineKeyboardButton(' Channel 📢', url='https://t.me/torrentleecherz')
+                  InlineKeyboardButton('👥 Group', url='https://t.me/HEXBOTSdg'),
+                  InlineKeyboardButton(' Channel 📢', url='https://t.me/HEXBOTS')
                   ],[
                   InlineKeyboardButton('🙄 Source', url='https://t.me/@lazyhacker25'),
-                  InlineKeyboardButton('Bot Lists 🤖', url='https://t.me/torrentleecherz/52'),
+                  InlineKeyboardButton('Bot Lists 🤖', url='https://t.me/HEXBOTS/10'),
                   InlineKeyboardButton('GitHup 🤪', url='https://t.me/lazyhacker25')
                   ],[
                   InlineKeyboardButton('🔻 Subscribe New MODDING CHANNEL 🔻', url='https://t.me/PLAYSTOREHUB')
