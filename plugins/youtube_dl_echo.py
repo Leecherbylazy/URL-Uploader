@@ -51,7 +51,7 @@ async def echo(bot, update):
             )
             return
         except Exception:
-            await update.reply_text("Something Wrong. Contact @zautebot")
+            await update.reply_text("Something Wrong. Contact @Hexcontactbot")
             return
     logger.info(update.from_user)
     url = update.text
